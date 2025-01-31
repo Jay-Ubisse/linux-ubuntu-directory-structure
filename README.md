@@ -27,3 +27,6 @@ Linux Ubuntu follows a hierarchical directory structure, with the root (`/`) as 
 | `/var` | Variable data such as logs (`/var/log`), cache, and spool files. |
 
 
+---
+
+Produced with ❤️ por [Jay-Ubisse](https://github.com/Jay-Ubisse/).
